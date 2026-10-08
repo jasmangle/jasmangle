@@ -1,3 +1,5 @@
+# Note: I am moving my important repos to [git.gay](https://git.gay/jasmangle/jaswebsite). Repos here will not be up-to-date.
+
 ## Hi there 👋
 
 Welcome to my GitHub profile! I'm Jasmine, a UC Berkeley EECS alum (Class of 2025) and ASIC engineer at NVIDIA in Santa Clara, CA.
